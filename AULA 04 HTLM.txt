@@ -1,16 +1,52 @@
-<!Doctype html>
-<html lang = "pt-br">   
+<!DOCTYPE html>
+<html lang =" PT - BR ">
 	<head>
-		<title> TITULO </title>
+		<meta charset ="UTF-8">
+		<title>Aula 04 </title>
 	</head>
 	<body>
-		<h1>Titulo<h1> 
-	<div> </div>
-		<h1></h1>
-		<hr>
-		<h3>paragrafo</h3>
-		
-	<div> </div>
-	<div> </div>
+		<div class="div1"> <!-- Cria um "bloco" dentro do site  -->
+			<h1>Primeiro titulo</h1> <!--Título -->
+			<hr></hr> <!-- Linha de separação -->
+			<p>Paragráfo 1</p> <!-- Cria um paragráfo -->
+		</div>
+		<br>
+		<div class="div2"> <!-- Cria um "bloco" dentro do site  -->
+			<h2>Segundo Titulo</h2> <!--Título -->
+			<hr></hr>  <!-- Linha de separação -->
+			<p>Paragráfo 2</> <!-- Cria um paragráfo -->
+		</div>
+		<br>
+		<div class="div3"> <!-- Cria um "bloco" dentro do site  -->
+			<h3>Terceiro titulo</h3> <!--Título -->
+			<hr></hr>  <!-- Linha de separação -->
+			<p>Terceiro paragráfo</p> <!-- Cria um paragráfo -->
+		</div>
+		<br>
+		<div class="div4"> <!-- Cria um "bloco" dentro do site  -->
+			<h4>Quarto titulo</h4><!--Título -->
+			<hr></hr>  <!-- Linha de separação -->
+			<pre>Texto pré 
+
+			formatado 4</pre> <!-- Cria um texto pré formatado -->
+			 
+		</div>
+		<br>
+		<div class="div5"> <!-- Cria um "bloco" dentro do site  -->
+			<h5>Quinto titulo</h5> <!--Título -->
+			<hr></hr>  <!-- Linha de separação -->
+			<pre>Texto pré 
+
+			formatado 5</pre> <!-- Cria um texto pré formatado -->
+		</div>
+		<br>
+		<div class="div6"> <!-- Cria um "bloco" dentro do site  -->
+			<h6>Sexto titulo</h6> <!--Título -->
+			<hr></hr>  <!-- Linha de separação -->
+			<pre>Texto pré 
+
+			formatado 6</pre> <!-- Cria um texto pré formatado -->
+		</div>
+	
 	</body>
 </html>
